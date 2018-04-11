@@ -1,0 +1,39 @@
+﻿@{
+    ViewBag.PageTitle = PopForums.Resources.EmailUsers;
+    Layout = "~/Areas/PopForums/Views/Admin/AdminMaster.cshtml";
+}
+<h1>@PopForums.Resources.EmailUsers</h1>
+
+@if (ViewBag.Result != null)
+{<p class="bg-danger callout">@ViewBag.Result</p>}
+
+@using (Html.BeginForm("UserForm", "Admin", FormMethod.Post))
+{
+    <div role="form" class="form-horizontal">
+        <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">@Html.TextBox("name", ViewData["name"] ?? "", new { @class = "form-control" })<span style="color:red">@Html.ValidationMessage("title") </span></div>
+        </div>
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">@Html.TextBox("email", ViewData["email"] ?? "", new { @class = "form-control" })<span style="color:red">@Html.ValidationMessage("email") </span></div>
+        </div>
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Password</label>
+            <div class="col-sm-10">@Html.TextBox("password", null, new { @class = "form-control", @type = "password" })<span style="color:red">@Html.ValidationMessage("password")</span></div>
+        </div>
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Re-Password</label>
+            <div class="col-sm-10">@Html.TextBox("repassword", null, new { @class = "form-control", @type = "password" })<span style="color:red">@Html.ValidationMessage("repassword") </span></div>
+        </div>
+        <div class="form-group">
+            <label for="categoryID" class="col-sm-2 control-label">User Type</label>
+            <div class="col-sm-10">@Html.DropDownList("userType", null, new { @class = "form-control" })</div>
+        </div>
+        <div class="form-group">
+            <label for="categoryID" class="col-sm-2 control-label">Department</label>
+            <div class="col-sm-10">@Html.DropDownList("department", null, new { @class = "form-control" })</div>
+        </div>
+        <input type="submit" value="Add new" class="btn btn-primary" />
+    </div>
+}

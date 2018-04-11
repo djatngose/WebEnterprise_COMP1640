@@ -1,0 +1,52 @@
+﻿@{
+	ViewBag.PageTitle = PopForums.Resources.EmailUsers;
+    Layout = "~/Areas/PopForums/Views/Admin/AdminMaster.cshtml";
+}
+@model List<PopForums.Models.User>
+<h1>Users</h1>
+@section HeaderContent {
+    <script language="javascript" type="text/javascript">
+
+        PopForums.EditUserForm = function (categoryID) {
+            debugger;
+            window.location = PopForums.areaPath + "/Admin/EditUserForm/" + categoryID;
+        }
+    </script>
+}
+
+@if (ViewBag.Result != null)
+{<p class="bg-danger callout">@ViewBag.Result</p>}
+
+<p>@Html.ActionLink("Add new user", "ShowUserForm", "Admin", new { @class = "btn btn-primary", role = "button" })</p>
+<hr />
+
+<div id="emailUserList">
+    <h4>User List</h4>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>UserType</th>
+            <th>Department</th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach (var user in Model)
+        {
+            <tr>
+
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.UserTypeName</td>
+                <td>@user.Title</td>
+                <td><input type="button" value="@PopForums.Resources.Edit" onclick="PopForums.EditUserForm(@user.UserID)" class="btn btn-primary" /></td>
+                <td>
+                    @using (Html.BeginForm("DeleteUserForm", "Admin"))
+                {
+                        @Html.Hidden("userID", user.UserID)
+                        <input type="submit" value="@PopForums.Resources.Delete" class="btn btn-primary" />
+                    }
+                </td>
+            </tr>    }
+    </table>
+</div>

@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.PageTitle = PopForums.Resources.AddForum;
+    Layout = "~/Areas/PopForums/Views/Admin/AdminMaster.cshtml";
+}
+
+<h2>Add category</h2>
+
+@using(Html.BeginForm()) {
+	<div class="form-horizontal" role="form">
+		@Html.Partial("ForumForm")
+		<div class="form-group">
+			<div class="col-sm-push-2 col-sm-10">
+				<input type="submit" value="Add category" class="btn btn-primary" />
+			</div>
+		</div>
+	</div>
+}

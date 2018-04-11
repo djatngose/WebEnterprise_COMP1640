@@ -1,0 +1,73 @@
+﻿@model PopForums.Models.NewPost
+@using PopForums.Extensions;
+<h2>@PopForums.Resources.CreateNewTopic</h2>
+
+<div class="postForm" role="form">
+    <div class="form-group">
+        @Html.TextBoxFor(p => p.Title, new { @class = "form-control", placeholder = PopForums.Resources.Title })
+    </div>
+    @Html.TextAreaFor(p => p.FullText, new { @class = "form-control" })
+    <div class="form-group" style="padding-top:15px;">
+        <label for="Password" class="col-xs-2 control-label" style="padding:0">
+            @PopForums.Resources.TermsOfService
+        </label>
+        <div class="col-xs-10" style="padding:0">
+            <textarea class="form-control" disabled="disabled" rows="6" id="TOS">
+                1. The Intellectual Property disclosure will inform users that the contents, logo and other visual media you created is your property and is protected by copyright laws.
+                2. A Termination clause will inform that users’ accounts on your website and mobile app or users’ access to your website and mobile (if users can’t have an account with you) can be terminated in case of abuses or at your sole discretion.
+                3. A Governing Law will inform users which laws govern the agreement. This should the country in which your company is headquartered or the country from which you operate your website and mobile app.
+                4. A Links To Other Web Sites clause will inform users that you are not responsible for any third party websites that you link to. This kind of clause will generally inform users that they are responsible for reading and agreeing (or disagreeing) with the Terms and Conditions or Privacy Policies of these third parties.
+            </textarea>
+        </div>
+    </div>
+    <div class="form-group @Html.AddValidationClass("IsAgree", "has-error")">
+        <div class="col-sm-offset-2 col-sm-10">
+            <div class="checkbox">
+                <label>@Html.CheckBoxFor(m => m.IsAgree) @PopForums.Resources.HaveReadTOS</label>
+                @Html.ValidationMessageFor(m => m.IsAgree)
+            </div>
+        </div>
+    </div>
+    <div class="form-group " >
+        <div class="col-sm-10" style="padding:0">
+            <div class="checkbox">
+                <label for="IsAnonymous">
+                    @Html.CheckBoxFor(p => p.IsAnonymous)
+                    Post anonymously
+                </label>
+            </div>
+        </div>
+    </div>
+    @*<div class="checkbox">
+            <label for="IncludeSignature">
+                @Html.CheckBoxFor(p => p.IncludeSignature)
+                Post anonymously
+            </label>
+        </div>*@
+    <div class="form-group" style="padding-top:15px;">
+        @Html.TextBoxFor(p => p.UploadFile, "", new { type = "file" })
+    </div>
+    @Html.HiddenFor(p => p.ItemID)
+    @Html.HiddenFor(p => p.IsPlainText)
+    @Html.HiddenFor(p => p.IsImageEnabled)
+    <input type="button" value="@PopForums.Resources.SubmitNewTopic" id="SubmitNewTopic" onclick="PopForums.postNewTopic()" class="btn btn-primary" />
+    <input type="button" value="@PopForums.Resources.Preview" id="PreviewButton" class="btn btn-primary" data-toggle="modal" data-target="#PreviewModal" />
+    <p id="PostResponseMessage" class="bg-danger callout"></p>
+</div>
+
+<div class="modal fade" id="PreviewModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content" id="PreviewModalContent">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span>&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title">@PopForums.Resources.Preview</h4>
+            </div>
+            <div class="modal-body">
+                <div id="ParsedFullText" class="postItem"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>

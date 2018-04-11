@@ -1,0 +1,10 @@
+﻿@model PopForums.Models.Category
+
+<h3>Edit department field</h3>
+
+@using(Html.BeginForm("EditCategory", "Admin", FormMethod.Post, new { @class = "form-inline" })) {
+	@Html.TextBox("newTitle", Model.Title, new { @class = "form-control" })
+    @Html.TextBox("closureDate", Model.ClosureDate.ToShortDateString(), new { @class = "form-control" })
+	@Html.Hidden("categoryID", Model.CategoryID, new { @class = "form-control" })
+	<input type="submit" value="@PopForums.Resources.Save" class="btn btn-primary" />
+}

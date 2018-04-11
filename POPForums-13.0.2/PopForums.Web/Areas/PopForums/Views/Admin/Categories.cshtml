@@ -1,0 +1,68 @@
+﻿@model List<PopForums.Models.Category>
+
+@{
+    ViewBag.PageTitle = PopForums.Resources.Categories;
+    Layout = "~/Areas/PopForums/Views/Admin/AdminMaster.cshtml";
+}
+
+@section HeaderContent {
+<script language="javascript" type="text/javascript">
+	PopForums.MoveCategory = function (direction, categoryID) {
+		$.ajax({
+			url: PopForums.areaPath + "/Admin/MoveCategory" + direction,
+			type: "POST",
+			data: { categoryID: categoryID },
+			dataType: "json",
+			success: function (result) {
+				var categoryList = $("#CategoryList");
+				switch (result.Result) {
+					case true:
+						categoryList.load(PopForums.areaPath + "/Admin/CategoryList");
+						break;
+					default:
+						categoryList.html(result.Message);
+				}
+			},
+			error: function () {
+				var categoryList = $("#CategoryList");
+				categoryList.html("@PopForums.Resources.CategoryMoveError");
+			}
+		});
+	}
+
+	PopForums.EditCategory = function (categoryID) {
+		$("#CategoryList").load(PopForums.areaPath + "/Admin/EditCategory/" + categoryID);
+	}
+</script>
+}
+
+<h2>Departments</h2>
+
+@using (Html.BeginForm("AddCategory", "Admin", FormMethod.Post))
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">@Html.TextBox("newCategoryTitle", null, new { @class = "form-control" }) <span style="color:red;">@TempData["errorName"]</span> </div>
+        </div>
+
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Closure Date</label>
+            <div class="col-sm-10">@Html.TextBox("closureDate", "{0:MM/dd/yyyy}", new { @class = "form-control", @type = "date" }) </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-push-2 col-sm-10">
+                <input id="btnCategory" type="submit" value="@PopForums.Resources.AddNew"  class="btn btn-primary" />
+            </div>
+        </div>
+
+    </div>
+
+
+	
+}
+<hr/>
+Department List
+<div id="CategoryList" style="margin-top: 20px;">
+	@Html.Partial("CategoryList", Model)
+</div>

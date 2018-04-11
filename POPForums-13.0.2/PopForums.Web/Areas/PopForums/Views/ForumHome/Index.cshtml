@@ -1,0 +1,150 @@
+﻿@using PopForums.Extensions;
+@model PopForums.Models.CategorizedForumContainer
+@{
+	ViewBag.Title = Model.ForumTitle;
+    Layout = "~/Areas/PopForums/Views/Shared/PopForumsMaster.cshtml";
+}
+
+@section HeaderContent{
+<script type="text/javascript">
+	$(function () {
+		PopForums.homeSetup();
+	});
+</script>
+}
+
+<h1>@Model.ForumTitle</h1>
+
+@*@if (this.GetUserFromViewData() != null)
+{
+	using (Html.BeginForm("MarkAllForumsRead", "Forum"))
+	{
+		<input type="submit" value="@PopForums.Resources.MarkAllForumsRead" class="btn btn-primary" />
+	}
+}*@
+
+<table class="table grid">
+	<tbody>
+		@*@foreach (var forum in Model.UncategorizedForums)
+		{
+			<tr data-forumid="@forum.ForumID">
+				<td class="newIndicator"><a href="@Url.Action("Index", "Forum", new { urlName = forum.UrlName })">@Html.ForumReadIndicator(forum, Model, "/Content/PopForums/")</a></td>
+				<td>
+					<h2>@Html.ActionLink(forum.Title, "Index", "Forum", new { urlName = forum.UrlName }, null)</h2>
+					<p>@forum.Description</p>
+					<small class="pull-right forumDetails">
+						@PopForums.Resources.Topics: <span class="topicCount">@forum.TopicCount.ToString("N0")</span> | @PopForums.Resources.Posts: <span class="postCount">@forum.PostCount.ToString("N0")</span> | @PopForums.Resources.Last: <span class="lastPostTime fTime" data-utc="@FormatTime8601(forum.LastPostTime)">@FormatTime(forum.LastPostTime)</span> @PopForums.Resources.By <span class="lastPostName">@forum.LastPostName</span>
+					</small>
+				</td>
+			</tr>
+		}*@
+		@foreach (var category in Model.CategoryDictionary)
+		{
+			<tr class="bg-primary">
+				<td colspan="2">@category.Key.Title</td>
+			</tr>
+			foreach (var forum in category.Value)
+			{
+				<tr data-forumid="@forum.ForumID">
+					<td class="newIndicator"><a href="@Url.Action("Index", "Forum", new { urlName = forum.UrlName })">@Html.ForumReadIndicator(forum, Model, "/Content/PopForums/")</a></td>
+					<td>
+						<h2>@Html.ActionLink(forum.Title, "Index", "Forum", new { urlName = forum.UrlName }, null)</h2>
+						<p>@forum.Description</p>
+						<small class="pull-right forumDetails">
+							@PopForums.Resources.Topics: <span class="topicCount">@forum.TopicCount.ToString("N0")</span> | @PopForums.Resources.Posts: <span class="postCount">@forum.PostCount.ToString("N0")</span>
+						</small>
+					</td>
+				</tr>
+            }
+		    <tr>
+		        <td colspan="2"><small class="pull-right forumDetails">
+    Total Topic: <span class="topicCount">@category.Key.TotalTopic.ToString("N0")</span> | Total Posts: <span class="postCount">@category.Key.TotalPost.ToString("N0")</span>
+</small></td>
+		    </tr>
+            }
+	</tbody>
+</table>
+
+@if(Model.users.UserType != 1)
+{ 
+<table class="table grid">
+    <tbody>
+    <tr class="bg-primary">
+        <td colspan="2">Most popular ideas for Thumps up</td>
+    </tr>@foreach (var item in Model.Posts.Where(a => a.Votes > 0).OrderByDescending(a => a.Votes).Take(3))
+         {
+             <tr>
+                 <td class="newIndicator"><a href="#"><img src="/Content/PopForums/NewIndicator.png" alt="New posts"></a></td>
+                 <td>
+                     <h2>@Html.ActionLink(item.Title , "Topic", "Forum", new {id = item.UrlName, page = 1}, null)</h2><i>@item.Votes votes</i>
+                 </td>
+
+             </tr>
+         }
+    </tbody>
+</table>
+
+<table class="table grid">
+    <tbody>
+        <tr class="bg-primary">
+            <td colspan="2">Most popular ideas for Thumps down</td>
+        </tr>@foreach (var item in Model.Posts.Where(a => a.DownVotes > 0).OrderByDescending(a => a.DownVotes).Take(3))
+        {
+            <tr>
+                <td class="newIndicator"><a href="#"><img src="/Content/PopForums/NewIndicator.png" alt="New posts"></a></td>
+                <td>
+                    <h2>@Html.ActionLink(item.Title , "Topic", "Forum", new { id = item.UrlName, page = 1 }, null)</h2><i>@item.DownVotes votes</i>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<table class="table grid">
+    <tbody>
+    <tr class="bg-primary">
+        <td colspan="2">Most viewed ideas</td>
+    </tr>@foreach (var item in Model.Posts.Where(a => a.ViewCount > 0).OrderByDescending(a => a.ViewCount).Take(3))
+         {
+             <tr>
+                 <td class="newIndicator"><a href="#"><img src="/Content/PopForums/NewIndicator.png" alt="New posts"></a></td>
+                 <td>
+                     <h2>@Html.ActionLink(item.Title  , "Topic", "Forum", new {id = item.UrlName, page = 1}, null)</h2><i>@item.ViewCount views</i>
+                 </td>
+             </tr>
+         }
+    </tbody>
+</table>
+<table class="table grid">
+    <tbody>
+    <tr class="bg-primary">
+        <td colspan="2">Lastest ideas</td>
+    </tr>@foreach (var item in Model.Posts.Take(3))
+         {
+             <tr>
+                 <td class="newIndicator"><a href="#"><img src="/Content/PopForums/NewIndicator.png" alt="New posts"></a></td>
+                 <td>
+                     <h2>@Html.ActionLink(item.Title , "Topic", "Forum", new {id = item.UrlName, page = 1}, null)</h2><i>@item.PostTime.ToString("MM/dd/yyyy")</i>
+                 </td>
+             </tr>
+         }
+    </tbody>
+</table>
+    <table class="table grid">
+        <tbody>
+        <tr class="bg-primary">
+            <td colspan="2">Lastest comments</td>
+        </tr>@foreach (var item in Model.Comments.Take(3))
+             {
+                 <tr>
+                     <td class="newIndicator"><a href="#"><img src="/Content/PopForums/NewIndicator.png" alt="New posts"></a></td>
+                     <td>
+                         <h2>@Html.ActionLink(item.Title, "Topic", "Forum", new {id = item.UrlName, page = 1}, null)</h2><i>@Html.Raw(item.FullText)</i>
+                     </td>
+                 </tr>
+             }
+        </tbody>
+    </table>
+}
+<div>
+	<p>@PopForums.Resources.TotalTopics: @ViewBag.TopicCount, @PopForums.Resources.TotalPosts: @ViewBag.PostCount, @PopForums.Resources.RegisteredUsers: @ViewBag.RegisteredUsers</p>
+</div>

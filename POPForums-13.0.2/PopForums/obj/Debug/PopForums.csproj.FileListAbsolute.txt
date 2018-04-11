@@ -1,0 +1,438 @@
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+C:\Users\THEROCK\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+C:\Users\Dat Ngo\Google Drive\Study\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+D:\Study\Greenwich\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+E:\Studying\Greenwich\1. Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+D:\Study\Greenwich\2.Web enterprise\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\PopForums.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\PopForums.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\de\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\es\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\nl\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\uk\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\zh-TW\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Owin.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Google.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Owin.Security.Twitter.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\Newtonsoft.Json.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Net4.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.pdb
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\StructureMap.Web.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Net.Http.Formatting.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Helpers.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Http.WebHost.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Mvc.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.Razor.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csprojResolveAssemblyReference.cache
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.de.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.es.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.nl.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.uk.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.Resources.Resources.zh-TW.resources
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.csproj.GenerateResource.Cache
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\de\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\es\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\nl\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\uk\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\zh-TW\PopForums.resources.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.dll
+F:\Demo\Web enterprise\SourceCode\POPForums-13.0.2\PopForums\obj\Debug\PopForums.pdb

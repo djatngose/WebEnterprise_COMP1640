@@ -1,0 +1,39 @@
+﻿@model PopForums.Models.User
+
+
+@{
+    ViewBag.PageTitle = PopForums.Resources.EmailUsers;
+    Layout = "~/Areas/PopForums/Views/Admin/AdminMaster.cshtml";
+}
+<h3>Edit department field</h3>
+
+
+@using(Html.BeginForm("EditUserForm", "Admin", FormMethod.Post)) {
+
+	@Html.Hidden("userId", ViewData["id"] ?? Model.UserID, new { @class = "form-control" })
+
+    <div role="form" class="form-horizontal">
+        <div class="form-group">
+            <label for="title" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">@Html.TextBox("name", ViewData["name"] ?? Model.Name, new  { @class = "form-control" })<span style="color:red">@Html.ValidationMessage("title") </span></div>
+        </div>
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Password</label>
+            <div class="col-sm-10">@Html.TextBox("password", null, new { @class = "form-control", @type = "password" })<span style="color:red">@Html.ValidationMessage("password")</span></div>
+        </div>
+        <div class="form-group">
+            <label for="description" class="col-sm-2 control-label">Re-Password</label>
+            <div class="col-sm-10">@Html.TextBox("repassword", null, new { @class = "form-control", @type = "password" })<span style="color:red">@Html.ValidationMessage("repassword") </span></div>
+        </div>
+        <div class="form-group">
+            <label for="categoryID" class="col-sm-2 control-label">User Type</label>
+            <div class="col-sm-10">@Html.DropDownList("userType", null, new { @class = "form-control" })</div>
+        </div>
+        <div class="form-group">
+            <label for="departmentID" class="col-sm-2 control-label">Department</label>
+            <div class="col-sm-10">@Html.DropDownList("department", null, new { @class = "form-control" })</div>
+        </div>
+        <input type="submit" value="@PopForums.Resources.Save" class="btn btn-primary" />
+    </div>
+	
+}
